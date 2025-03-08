@@ -1,8 +1,8 @@
 ---
-title: 테스트용 첫 글
+title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [깃헙, 지킬]
-tags: [블로그,글쓰기,실험,테스트] # TAG names should always be lowercase
+categories: [상위 카테고리, 하위 카테고리]
+tags: [태그1,태그2,태그3]     # TAG names should always be lowercase
 ---
 
 ## 일단 테스트입니다
