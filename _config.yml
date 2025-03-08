@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 게임만드는 땡구 # the main title
+title: 땡구의 개발일지 # the main title
 
-tagline: 이와타 사토루 같은 천재 개발자가 되어보자! # it will display as the subtitle
+tagline: 밥먹듯이 개발하기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  땡구의 개발일지는 게임 개발자 땡구가 개발 및 공부하면서 느낀 것들을 기록하는 블로그입니다. a blog as a game developer to record what he felt while developing and studying.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
