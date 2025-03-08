@@ -48,3 +48,9 @@ platforms:
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
+  - type: KakaoTalk
+    icon: "fa-brands fa-kakaotalk"
+    link: "https://sharer.kakao.com/talk/friends/picker/link?url=URL&text=TITLE"
+  - type: Instagram
+    icon: "fa-brands fa-instagram"
+    link: "https://www.instagram.com/?url=URL&text=TITLE"
