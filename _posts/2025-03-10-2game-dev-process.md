@@ -9,7 +9,7 @@ media_subpath: /assets/img/20250310
 
 ## 게임 개발의 대표적인 세 직군
 
-![Desktop View](10.jpg){: w="500" h="400"}
+![Desktop View](10.jpg){: w="700" h="600"}
 
 ### 게임회사 3신기
 
@@ -41,7 +41,7 @@ media_subpath: /assets/img/20250310
 
 ### 기획
 
-![Desktop View](11.jpg){: w="500" h="400"}
+![Desktop View](11.jpg){: w="700" h="600"}
 
 > 게임 개발의 첫 단계
  - `컨셉`을 디자이너에게 요구
@@ -58,7 +58,7 @@ media_subpath: /assets/img/20250310
  - 스토리 전개, 난이도, 옵젝 배치 와 같이 게임의 흐름을 관리
  - `디아블로 2`의 레벨 디자인이 뛰어난 이유를 알아보자
 
-![Desktop View](13.jpg){: w="500" h="400"}
+![Desktop View](13.jpg){: w="700" h="600"}
  > [디아블로 2는 왜 재미있었나](https://us.forums.blizzard.com/en/d2r/t/diablo-2-is-a-slot-machine/24497)
 
 ---
@@ -66,17 +66,18 @@ media_subpath: /assets/img/20250310
 #### 시나리오 기획자
  - 시나리오, 스토리 등을 담당하는 기획자
  - `니어:오토마타`의 요코오 타로<br>
-  ![Desktop View](14.jpg){: w="500" h="400"}
+  ![Desktop View](14.jpg){: w="700" h="600"}
 
 ---
 
 #### 보상 설계 기획자
  - 성취감, 성장 동력, 동기부여 등 에 대한 설계
  - `다크소울`, NC 게임들 및 온라인 서비스 게임들(던파,메이플 등)<br>
- ![Desktop View](15.jpg){: w="500" h="400"}<br>
+ ![Desktop View](15.jpg){: w="700" h="600"}<br>
  {% include embed/youtube.html id='mOTCxsnW80I' %}
  
- >젤다의 전설
+ >젤다의 전설 상자 열기
+
  ---
 
 #### 시스템 기획자
@@ -85,7 +86,7 @@ media_subpath: /assets/img/20250310
  - 시스템과 프로그래밍에 대한 이해력이 높아야함 
  - 롤, 스타, 문명 등
   
- ![Desktop View](16.gif){: w="500" h="400"}
+ ![Desktop View](16.gif){: w="700" h="600"}
 
 >건물을 만든다 치면 프로그래머는 시공자<br>
 기획과 아트가 건축가에 가깝다<br>
@@ -95,7 +96,7 @@ media_subpath: /assets/img/20250310
 
 ### 아트
 
-![Desktop View](17.gif){: w="500" h="400"}
+![Desktop View](17.gif){: w="700" h="600"}
 >파이널 판타지 16
 
 - 게임의 비주얼을 담당한다. 
@@ -105,7 +106,7 @@ media_subpath: /assets/img/20250310
 
 ### 프로그래머
 
-![Desktop View](12.jpg){: w="500" h="400"}
+![Desktop View](12.jpg){: w="700" h="600"}
 
 > 프로그래머 이와타 사토루
 
@@ -129,7 +130,7 @@ media_subpath: /assets/img/20250310
 
 ### Waterfall(폭포수)개발 방법론
 
-![Desktop View](18.jpg){: w="500" h="400"}
+![Desktop View](18.jpg){: w="700" h="600"}
 
 - **`프로덕트 매니지먼트`**
   - 자원 할당, 기한 산정, 요구 설정 등등 프로젝트 팀을 할당하기 위한 단계
@@ -160,7 +161,7 @@ media_subpath: /assets/img/20250310
 
 ### Agile 개발 방법론
 
-![Desktop View](19.jpg){: w="500" h="400"}
+![Desktop View](19.jpg){: w="700" h="600"}
 
 - 프로젝트를 작은 단위로 쪼개어 빠르게 개발함. 
 - 사용자(플레이어) 피드백을 받아 다시 기획 및 개발

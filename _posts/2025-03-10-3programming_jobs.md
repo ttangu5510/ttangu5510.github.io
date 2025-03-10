@@ -46,6 +46,6 @@ media_subpath: /assets/img/20250310
 
 ### 게임에 따라 달라지는 요구 역량
 
-![Desktop View](20.jpg){: w="500" h="400"}
+![Desktop View](20.jpg){: w="700" h="500"}
 
 >게임에 사용되는 엔진에 따라 요구되는 프로그래밍 언어도 달라진다
